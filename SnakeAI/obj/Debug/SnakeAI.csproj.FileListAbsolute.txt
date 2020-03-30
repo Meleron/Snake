@@ -1,0 +1,9 @@
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\bin\Debug\SnakeAI.exe.config
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\bin\Debug\SnakeAI.exe
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\bin\Debug\SnakeAI.pdb
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.csprojAssemblyReference.cache
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.Properties.Resources.resources
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.csproj.GenerateResource.cache
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.exe
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.pdb
+C:\Users\meleron\source\repos\SnakeAI\SnakeAI\obj\Debug\SnakeAI.SnakeForm.resources
